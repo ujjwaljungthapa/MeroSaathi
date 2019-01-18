@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mero Saathi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Fragment placeholder text -->
+    <string name="fragment_path_welcome">Hello World from the PATH fragment</string>
+    <string name="fragment_transport_welcome">Hello World from the Transport fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bus_popup_text">You are taking the travel by BUS.</string>
+    <string name="bus_popup_title">Your travel by BUS</string>
+    <string name="taxi_popup_text">You are taking the travel by TAXI.</string>
+    <string name="taxi_popup_title">Your travel by TAXI</string>
+    <string name="farewell">Have a great journey!</string>
+    <string name="greet">Thank you!</string>
+
+    <string name="unwanted_text_warning_title">Stops name not found!</string>
+    <string name="unwanted_text_warning_text">Please choose name of the stops that system recommended.</string>
+    <string name="title_activity_search_view_bus">SearchViewBusActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="tab_text_1">Time</string>
+    <string name="tab_text_2">Distance</string>
+    <string name="tab_text_3">Cost</string>
+
+    <string name="bus_time_fragment">This is time fragment.</string>
+    <string name="bus_distance_fragment">This is distance fragment.</string>
+    <string name="bus_cost_fragment">This is cost fragment.</string>
+
+</resources>

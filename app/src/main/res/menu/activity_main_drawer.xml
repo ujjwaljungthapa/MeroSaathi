@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/nav_home_logo"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_path"
+            android:icon="@drawable/nav_path_logo"
+            android:title="Path" />
+        <item
+            android:id="@+id/nav_transport"
+            android:icon="@drawable/nav_transport"
+            android:title="Transport" />
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/nav_information"
+            android:title="Information" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/nav_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/nav_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Contact Us">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/nav_aboutus"
+                android:title="About Us"/>
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@drawable/nav_contactus"
+                android:title="Contact Us"/>
+        </menu>
+    </item>
+
+</menu>
